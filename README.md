@@ -1,0 +1,1 @@
+This was the first ever game that I made using HTML and JavaScript in highschool. It was the classic fruit catcher game where after every interval of five points a player received, the fruits fell at a faster rate. 
