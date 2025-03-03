@@ -21,7 +21,7 @@ let x;
 let begin;
 
 function setup() {
-  createCanvas(1350,650);
+  createCanvas(windowWidth,windowHeight);
   backg = loadImage('./bg.png');
   basket = loadImage('./basket.png'); 
   strawberry = loadImage('./strawberry.png');
